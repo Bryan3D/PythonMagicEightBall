@@ -1,4 +1,4 @@
 # Python Mini Projects 
--   Magic Eight Ball Lottery Game
--   Meat Market Shipping Costs Calculation
+1.   Magic Eight Ball Lottery Game
+2.  Meat Market Shipping Costs Calculation
 
